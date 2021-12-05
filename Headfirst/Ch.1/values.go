@@ -1,3 +1,4 @@
+/*
 package main
 
 import "fmt"
@@ -40,3 +41,4 @@ func main() {
 	fmt.Println(4 <= 6)
 	fmt.Println(4 >= 4)
 }
+*/

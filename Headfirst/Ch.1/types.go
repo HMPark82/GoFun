@@ -1,3 +1,4 @@
+/*
 package main
 
 import (
@@ -11,3 +12,4 @@ func main() {
 	fmt.Println(reflect.TypeOf(true))
 	fmt.Println(reflect.TypeOf("Hello, Go!"))
 }
+*/

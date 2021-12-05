@@ -1,3 +1,4 @@
+/*
 package main
 
 import "fmt"
@@ -8,3 +9,4 @@ func main() {
 	fmt.Println("Area is", length*float64(width))
 	fmt.Println("length > width?", length > float64(width))
 }
+*/

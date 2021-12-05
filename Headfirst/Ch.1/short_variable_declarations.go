@@ -1,3 +1,4 @@
+/*
 package main
 
 import "fmt"
@@ -12,3 +13,4 @@ func main() {
 	fmt.Println("each with an area of")
 	fmt.Println(length*width, "square meters")
 }
+*/
