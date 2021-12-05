@@ -1,0 +1,10 @@
+// Comment line
+// ctrl+/ for comment shortcut
+/* Comment block*/
+
+// Go version 'go version'
+// Go 'env'
+
+//packages are directories
+//create a go.mod file in the directory you want
+//Functions need to be coded and called with upper case to be exported
