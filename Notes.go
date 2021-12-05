@@ -3,11 +3,7 @@
 
 package main
 
-import (
-	"marc.hello"
-)
-*/
 func main() {
 	duh()
-	hello.Hello()
+	//marc.Hello()
 }
