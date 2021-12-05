@@ -4,9 +4,10 @@
 package main
 
 import (
-	"fmt"
+	"marc.hello"
 )
-
+*/
 func main() {
-	fmt.Println("Hello world!")
+	duh()
+	hello.Hello()
 }
