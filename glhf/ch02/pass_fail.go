@@ -1,5 +1,5 @@
 // pass_fail reports whether a grade is passing or failing.
-package main
+package ch02
 
 import (
 	"bufio"
@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-func main() {
+func C() {
 	fmt.Print("Enter a grade: ")
 	reader := bufio.NewReader(os.Stdin)
 	input, err := reader.ReadString('\n')

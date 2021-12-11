@@ -1,5 +1,5 @@
 // guess challenges players to guess a random number.
-package main
+package ch02
 
 import (
 	"bufio"
@@ -12,7 +12,7 @@ import (
 	"time"
 )
 
-func main() {
+func B() {
 	seconds := time.Now().Unix()
 	rand.Seed(seconds)
 	target := rand.Intn(100) + 1

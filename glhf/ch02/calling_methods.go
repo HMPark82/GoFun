@@ -1,4 +1,4 @@
-package main
+package ch02
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func main() {
+func A() {
 	var now time.Time = time.Now()
 	var year int = now.Year()
 	fmt.Println(year)
