@@ -1,5 +1,4 @@
-/*
-package main
+package ch01
 
 import (
 	"fmt"
@@ -7,8 +6,7 @@ import (
 	"strings"
 )
 
-func main() {
+func B() {
 	fmt.Println(math.Floor(2.75))
 	fmt.Println(strings.Title("head first go"))
 }
-*/

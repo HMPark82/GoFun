@@ -1,9 +1,8 @@
-/*
-package main
+package ch01
 
 import "fmt"
 
-func main() {
+func C() {
 	quantity := 4
 	length, width := 1.2, 2.4
 	customerName := "Damon Cole"
@@ -13,4 +12,3 @@ func main() {
 	fmt.Println("each with an area of")
 	fmt.Println(length*width, "square meters")
 }
-*/

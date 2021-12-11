@@ -4,7 +4,29 @@
 
 // Go version 'go version'
 // Go 'env'
+// go mod init mp
 
 //packages are directories
 //create a go.mod file in the directory you want
 //Functions need to be coded and called with upper case to be exported
+
+///////////////////////ch. 01
+// \n new line
+// \t tab
+// \''
+// \\balckslash
+
+//runes use single quotes? '' 
+
+/*
+common variable types
+int
+float
+rune
+string
+boolean
+arrays
+structs
+slices
+maps
+*/

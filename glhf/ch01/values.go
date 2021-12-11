@@ -1,9 +1,8 @@
-/*
-package main
+package ch01
 
 import "fmt"
 
-func main() {
+func E() {
 	fmt.Println("Strings:")
 	fmt.Println("Hello, Go!")
 	fmt.Println("Hello,\nGo!")
@@ -41,4 +40,3 @@ func main() {
 	fmt.Println(4 <= 6)
 	fmt.Println(4 >= 4)
 }
-*/

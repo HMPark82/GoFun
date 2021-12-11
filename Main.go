@@ -6,14 +6,22 @@ package main
 // 	fmt.Println("Hello world2!")
 // }
 
-import ("fmt"
-"marc/pkg1")
+import (
+	"fmt"
+)
 
 func duh() {
-	fmt.Println("Hello world2!")
+	fmt.Println("A")
+	fmt.Println('A')
 }
 
 func main() {
 	duh()
-	m1.Test1()
+	//ch01.Hello1()
+	//ch01.A()
+	//ch01.B()
+	//ch01.C()
+	//ch01.D()
+	//ch01.E()
+	//ch01.F()
 }
